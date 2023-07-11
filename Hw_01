@@ -1,0 +1,3 @@
+Name1 = input("What is your name?")
+Name2 = input("What is your partners name")
+print(Name1,"fell in love with",Name2)
