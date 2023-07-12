@@ -1,0 +1,10 @@
+//Working on Indentations and conditional statements
+x = "10"
+if (x==5):
+    print("Big")
+else :
+    print("How did I do this")
+print(x)
+
+
+// op - How did I do this, !0
