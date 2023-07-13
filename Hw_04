@@ -1,0 +1,9 @@
+hours = input("Enter hours worked")
+hours = float(hours)
+rate = 10
+if (hours > 40):
+    rate = rate*1.5
+else:
+    rate = 10
+pay = float(hours*rate)
+print("Your pay is:",pay)
