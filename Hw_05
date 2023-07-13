@@ -1,0 +1,9 @@
+try:
+    Hours = int(input("Enter hours"))
+    Rate = int(input("Enter rate"))
+except:
+    print("Error, Please enter a numeric value")
+    quit()
+pay = Hours*Rate
+print ("Your pay is:",pay)
+    
